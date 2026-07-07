@@ -24,7 +24,7 @@ Rules
 
 Prioritize high buying intent.
 
-Write prompts exactly like humans ask AI assistants in short, concise, and natural language.
+Write prompts exactly like humans ask AI assistants.
 
 
 Avoid duplicates.
