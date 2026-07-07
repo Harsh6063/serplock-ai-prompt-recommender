@@ -8,7 +8,7 @@ An AI-powered recommendation engine that analyzes any website, understands its b
 
 ## 🌐 Live Demo
 
-🔗 **Vercel:** https://your-vercel-link.vercel.app
+🔗 **Vercel:** https://serplock-ai-prompt-recommender.vercel.app/
 
 ## 💻 GitHub Repository
 
