@@ -81,7 +81,7 @@ export default function UrlInput({
             />
 
             <Input
-              placeholder="https://serplock.com"
+              placeholder="https://www.serplock.com/"
               value={url}
               onChange={(e) => setUrl(e.target.value)}
               className="h-14 border-0 pl-11 text-base shadow-none focus-visible:ring-0"
@@ -117,10 +117,10 @@ export default function UrlInput({
       <p className="mt-4 text-sm text-slate-500">
         Try{" "}
         <button
-          onClick={() => setUrl("https://serplock.com")}
+          onClick={() => setUrl("https://www.serplock.com")}
           className="font-medium text-[#2F6BFF] hover:underline"
         >
-          https://serplock.com
+          https://www.serplock.com
         </button>
       </p>
 
